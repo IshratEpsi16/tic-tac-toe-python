@@ -1,1 +1,2 @@
 # tic-tac-toe-python
+Tic-tac-toe is a noughts and crosses or Xs and Os is a paper-and-pencil game for two players. The main symbol of this game is X and O. It take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.Players soon discover that the best play from both parties leads to a draw. Hence, tic-tac-toe is most often played by young children, who often have not yet discovered the optimal strategy. It’s a simple and easy game.
